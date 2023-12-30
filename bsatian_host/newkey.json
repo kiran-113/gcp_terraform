@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sound-observer-408806",
+  "private_key_id": "674893314d50ecf254323addcb153559ddcd96cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDdxg9Sx+LrkVox\nKAe99RG38ulDCvFjSCYHtCtcHpw19FleNIJqn0Gnh+wYu69HGVg/v/p9MSr9gk74\nZ6dOXi/Aucylna8S9dCadIk5Y/An15Z2nRifmqOBhekk/kpUANfo5iRkUhKHkxDL\n2ckyc6qq6Qwwi0lTku0+lr5uTvJo17NM1EKp4jciYY0orJ1L1w5tXkfMyScMAEIf\nsz/V5PqZpuWED8W71i6UfJNmvjHvy/9Qg+TZ28XdUU/kD21Csn3UIju//XGwtUcP\nHWNxPvJ2/pS2R4vgRJI5cNouBiBb+ykx4Psl5lmp3Uwv967PjKg2YjyF2q/Ywu/C\nW6yDK1l3AgMBAAECggEAaq6qFGI/UJ59SoQ9JS3MtjZN64hKEj5UvQP4j7nR30qJ\n6v1Ld0rg5FxIQKWYbZVNlG0fbDXIvmZ+4pPKMbKxOf6m6UxvOamyDXrdwBPJJQFa\nSfjMLYrP+LCYNMl2q+4z7r825mNssncWb1l2paRqhwjQalG2llNpeOA+/wVPKwsi\nwvarinmZOydhnqRqXUUZzu7LqYY7Loz3G/5xlXx2ezfbPYEcLANx7KTrl6zlpQUw\nqouQ6JDajuBQFSoB1S2OkP5r5isxWo5mLusU15VqOG3/YrvNYOaAu38suJRY511n\nPBNLZ00j7C0wqJNGvgq3lI3ONFClZtRU13kaF5bmgQKBgQD2FPKyKhsxXyJ3alM8\nw1g9PujDeMYptgkHwfnDY+5pkubEtIDWxnW/cSI4X2dtzv0j0z57de4X97DAX02d\nILaqLAn9Pjdps56KjuwuIBRHc/9axL+oq2pNVUoTIWHQfcwR63gvAurte0IyUI3y\nvMfruvr5+C+vNGaSp0YbGJX6FwKBgQDmtk1hpuyW3bKEPoDNDiCIKeP6+qgu0H/l\nJOLe2OllSwoRVrWe/0EKqDGjeRV35UeTdu94lycxuUyz6v2ecXhQEjPYizuiDHRT\nHwwRa4XkkcxpPw25n/nw8ZlzTH22XUvdRJo0l1M5shi/Xa8WYFqjxRNWvUtt2Qwf\nKnbq4UcXoQKBgQCKMod9wSHWX0wW7jJizH3Qn3TO2hPHtwBpR+mBbqykw6gvzgMR\nGxFjeyCxsfp+86C8LtVHNpqJAURVNPB8jrOm6+aMPxWVmhcuT0eaO8/HtQAyNI5C\nJkojtgNMrRGmqg8h/TBYjnXq+q7ZXN3q9VP9Mdvi6Bu3dGEqeSBo9Sy87wKBgQC7\nyedydMxegFWuDrIINleEfZRz1VLPyCZR/ZQsj6JqMIohUtLCeEIYyo6c4RH4ZUe9\nYDHLljzw3ELyr3OAZBvqEObie3IulLSac8r+4uY5BfO8NvaVAQIQfJbKopgwt//o\nOs7Jv+KeM7ixCzBYplUguGjlUW70GpcjRw1EYdncAQKBgQCQq5OrC7X2oh58KKv/\n3sesh+qTDQU+V1NyDorgCqu2JAJbH6S25br41tO6sBGIcDM/SONMbzv8LZ5c3+cH\nPhLfSqt94D0wrcDCw5PagnUDU9jSgnvqpR86y8AwVsN/0/hdPKloaEyGzIiR3wPk\nV5ArQOXDVWRK34q/qRCS06SX5g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "new-sa-terraform@sound-observer-408806.iam.gserviceaccount.com",
+  "client_id": "108562470564530581463",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/new-sa-terraform%40sound-observer-408806.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
