@@ -7,5 +7,5 @@ variable "members" {
 variable "project_id" {
   description = "Project ID where the bastion will run"
   type        = string
-  default     = "sound-observer-408806"
+  default     = "<change with your project_id>"
 }

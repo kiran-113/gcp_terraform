@@ -9,9 +9,9 @@ terraform {
 
 provider "google" {
   # Configuration options
-  project     = "sound-observer-408806"
+  project     = "keep your project_id"
   region      = "us-central1"
   zone        = "us-central1-a"
-  credentials = "newkey.json"
+  credentials = "#keep your credentials"
 
 }
